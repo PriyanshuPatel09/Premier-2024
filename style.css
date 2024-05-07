@@ -635,7 +635,7 @@ body {
     }
 
     .scroll .container img {
-        margin: 4vh -.1vw;
+        margin: 4vh 0vw;
         height: 9vh;
         width: 16vw;
         border-radius: 50%;
