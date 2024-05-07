@@ -838,7 +838,7 @@ body {
     .elem img {
         height: 8vh;
         width: 16vw;
-        left: 10vw;
+        left: 23vw;
         position: absolute;
         border-radius: 50%;
         object-fit: cover;
