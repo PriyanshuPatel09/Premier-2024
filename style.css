@@ -836,8 +836,8 @@ body {
     }
 
     .elem img {
-        height: 10vh;
-        width: 20vw;
+        height: 8vh;
+        width: 16vw;
         left: 10vw;
         position: absolute;
         border-radius: 50%;
